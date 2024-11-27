@@ -30,4 +30,5 @@ nav:
   - 简介: index.md
   - 指南:
     - 毕业要求: guide/graduation.md
-    - 日常要求: guide/daily.md
+    - 工作日常: guide/daily_work.md
+    - 生活日常: guide/daily_life.md
