@@ -11,6 +11,8 @@ theme:
 
 plugins:
   - search
+  - git-revision-date-localized
+  - git-authors
 
 markdown_extensions:
   # Python Markdown
@@ -36,4 +38,4 @@ nav:
   - 科研工具:
     - 服务器相关: tools/server.md
     - 论文相关: tools/papers.md
-    - 代码相关: tools/code.md
+    - GitHub相关: tools/github.md
