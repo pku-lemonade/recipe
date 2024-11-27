@@ -4,13 +4,13 @@
 
 ## 周报
 
-建议**每周五下午 5 点**提交。最迟**每周六下午 6 点**提交至 [pku-lemonade@googlegroups.com](mailto:pku-lemonade@googlegroups.com)。
+建议**每周五下午 5 点**提交。最迟**每周六下午 6 点**提交至 [pku-lemonade@googlegroups.com](mailto:pku-lemonade@googlegroups.com)。周报具体要求在[这里](weekly_report.md)。
 
 以下定义的每周，指两次周报之间的时间。
 
 ## 阅读论文
 
-每周阅读至少 5 篇论文，提交 PR 至[pku-lemonade/review](https://github.com/pku-lemonade/new-lemon-review)。
+每周阅读**至少 5 篇**论文，提交 PR 至 [pku-lemonade/review](https://github.com/pku-lemonade/new-lemon-review)。
 
 ## 科研时间
 
