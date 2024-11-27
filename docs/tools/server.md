@@ -1,0 +1,33 @@
+# 服务器相关工具
+
+## fish（可选）
+
+建议使用`fish`作为 shell，`oh-my-fish`作为插件管理器。
+
+将`fish`设置为默认 shell：
+
+```bash
+chsh -s /usr/bin/fish
+```
+
+安装`oh-my-fish`：
+
+```bash
+curl -L https://get.oh-my.fish | fish
+```
+
+## tldr
+
+`tldr`是一个命令行工具，可以查看常用命令的简单用法。
+
+## tmux
+
+`tmux`是一个终端工具，最常用的场景是，在因为网络等原因断开与服务器连接后，保持正在执行的进程继续执行。使用教程可以参考[这里](https://www.redhat.com/en/blog/introduction-tmux-linux)。
+
+如果忘记了指令，可以使用`tldr tmux`查看。
+
+## git
+
+`git`是一个版本控制工具，使用教程可以参考[这里](https://docs.github.com/en/get-started/using-git)。
+
+如果忘记了指令，可以使用`tldr git`查看。
