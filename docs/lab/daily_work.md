@@ -4,7 +4,7 @@
 
 ## 周报
 
-每周六下午 6 点前提交至 [pku-lemonade@googlegroups.com](mailto:pku-lemonade@googlegroups.com)。
+建议**每周五下午 5 点**提交。最迟**每周六下午 6 点**提交至 [pku-lemonade@googlegroups.com](mailto:pku-lemonade@googlegroups.com)。
 
 以下定义的每周，指两次周报之间的时间。
 
@@ -14,7 +14,7 @@
 
 ## 科研时间
 
-每周科研工作至少 20 小时（包括写代码，读写论文，组会讨论）。具体科研内容记录在周报中。
+每周科研工作**至少 20 小时**（包括写代码，读写论文，组会讨论）。具体科研内容记录在周报中。不需要在周报中注明具体时间。
 
 ## 组会
 
