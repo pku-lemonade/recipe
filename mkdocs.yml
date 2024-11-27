@@ -1,0 +1,33 @@
+site_name: New Lemonade Recipe
+site_url: https://recipe.youwei.xyz
+site_author: 'PKU Lemonade'
+
+theme:
+  name: material
+  features:
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+
+plugins:
+  - search
+
+markdown_extensions:
+  # Python Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+
+extra:
+  pagetime: 'on'
+
+nav:
+  - 简介: index.md
+  - 指南:
+    - 毕业要求: guide/graduation.md
+    - 日常要求: guide/daily.md
