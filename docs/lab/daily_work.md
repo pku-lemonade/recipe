@@ -4,7 +4,9 @@
 
 ## 周报
 
-建议**每周五下午 5 点**提交。最迟**每周六下午 6 点**提交至 [pku-lemonade@googlegroups.com](mailto:pku-lemonade@googlegroups.com)。周报具体要求在[这里](weekly_report.md)。
+建议**每周五下午 5 点**提交。最迟**每周六下午 6 点**提交至 [pku-lemonade@googlegroups.com](mailto:pku-lemonade@googlegroups.com)。如遇节假日，在节假日前一天下午提交，最迟在节假日的第一天下午提交。
+
+周报具体要求在[这里](weekly_report.md)。
 
 以下定义的每周，指两次周报之间的时间。
 
