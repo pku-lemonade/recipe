@@ -7,8 +7,8 @@
 - Server: Inspur 5280 M6
 - CPU: 2 x Intel 8375c
 - Memory: 16 x 32 GB
-- Disk: 2 x 2 TB SSD
-- Disk: 18 TB HDD + 8 TB HDD
+- SSD: 2 x 2 TB
+- HDD: 18 TB + 8 TB
 - GPU: NVIDIA L4
 - OS: Debian 12
 

@@ -6,7 +6,7 @@ Every prospective and current PhD student should write the weekly report.
 
 ## Who will read my report?
 
-Every member of LEMONDAE can read your report.
+Every member of LEMONADE can read your report.
 
 ## When should I send the weekly report?
 
