@@ -38,6 +38,7 @@ nav:
     - 生活日常: lab/daily_life.md
     - 服务器: lab/server.md
     - 周报: lab/weekly_report.md
+    - 财务: lab/money.md
   - 科研工具:
     - 服务器相关: tools/server.md
     - 论文相关: tools/papers.md
