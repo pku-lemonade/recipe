@@ -2,6 +2,10 @@
 
 实验室主要使用`GitHub`来管理项目代码和同步科研进度。在熟悉`git`的基本操作后，还需要熟悉以下内容。
 
+## Copilot
+
+首先注册学生账号，获得免费的 Copilot。在`VS Code`中安装`GitHub Copilot`插件。使用场景见[这里](https://docs.github.com/en/copilot/using-github-copilot/guides-on-using-github-copilot)。
+
 ## Pull Request
 
 `Pull Request`是`GitHub`上的一个功能，可以让你告诉其他人你在一个分支上的工作。当你准备合并分支时，你可以打开一个 PR，让其他人审查你的工作。提交和审查 PR 的流程可以参考[这里](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests)。

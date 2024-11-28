@@ -40,6 +40,6 @@ nav:
     - 周报: lab/weekly_report.md
     - 财务: lab/money.md
   - 科研工具:
-    - 服务器相关: tools/server.md
-    - 论文相关: tools/papers.md
-    - GitHub相关: tools/github.md
+    - 命令行工具: tools/server.md
+    - 论文工具: tools/papers.md
+    - GitHub: tools/github.md
