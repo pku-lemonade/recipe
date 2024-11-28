@@ -1,5 +1,9 @@
 # 服务器
 
+## 管理人员
+
+[吴飞扬](mailto:1308642003@qq.com)
+
 ## seele
 
 位于昌平机房。配置与 Amazon EC2 `m6i.32xlarge`实例相同。
@@ -18,8 +22,8 @@
 
 - CPU: AMD EPYC 7c13
 - Memory: 8 x 32 GB
-- Disk: 4 TB SSD + 2 TB SSD
-- Disk: 8 x 8 TB HDD (RAID 10, 32 TB available)
+- SSD: 4 TB + 2 TB
+- HDD: 8 x 8 TB (RAID 10, 32 TB available)
 - GPU: 3 x NVIDIA RTX 4090
 - OS: Debian 12
 
