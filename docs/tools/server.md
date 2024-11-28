@@ -1,4 +1,13 @@
-# 服务器相关工具
+# 服务器工具
+
+## 图形化界面
+
+参考`VS Code`的[教程](https://code.visualstudio.com/docs/remote/ssh)。
+
+## tldr
+
+`tldr`是一个命令行工具，可以查看常用命令的简单用法。
+
 
 ## fish（可选）
 
@@ -16,10 +25,6 @@ chsh -s /usr/bin/fish
 curl -L https://get.oh-my.fish | fish
 ```
 
-## tldr
-
-`tldr`是一个命令行工具，可以查看常用命令的简单用法。
-
 ## tmux
 
 `tmux`是一个终端工具，最常用的场景是，在因为网络等原因断开与服务器连接后，保持正在执行的进程继续执行。使用教程可以参考[这里](https://www.redhat.com/en/blog/introduction-tmux-linux)。
@@ -28,6 +33,6 @@ curl -L https://get.oh-my.fish | fish
 
 ## git
 
-`git`是一个版本控制工具，使用教程可以参考[这里](https://docs.github.com/en/get-started/using-git)。
+`git`是一个版本控制工具，使用教程可以参考[这里](https://docs.github.com/en/get-started/using-git)。然后尝试[这个](https://docs.github.com/en/get-started/start-your-journey/hello-world)教程。
 
 如果忘记了指令，可以使用`tldr git`查看。
