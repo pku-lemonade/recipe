@@ -34,10 +34,10 @@ nav:
   - 简介: index.md
   - 实验室:
     - 毕业要求: lab/graduation.md
-    - 工作日常: lab/daily_work.md
-    - 生活日常: lab/daily_life.md
+    - 工作日常: lab/daily-work.md
+    - 生活日常: lab/daily-life.md
     - 服务器: lab/server.md
-    - 周报: lab/weekly_report.md
+    - 周报: lab/weekly-report.md
     - 财务: lab/money.md
   - 科研工具:
     - 服务器工具: tools/server.md
