@@ -16,7 +16,7 @@
 - GPU: NVIDIA L4
 - OS: Debian 12
 
-## apples
+## trifoliate
 
 位于昌平办公室。主要用作存储池和深度学习机器。
 
