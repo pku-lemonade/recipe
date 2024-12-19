@@ -36,3 +36,11 @@ curl -L https://get.oh-my.fish | fish
 `git`是一个版本控制工具，使用教程可以参考[这里](https://docs.github.com/en/get-started/using-git)。然后尝试[这个](https://docs.github.com/en/get-started/start-your-journey/hello-world)教程。
 
 如果忘记了指令，可以使用`tldr git`查看。
+
+## docker/podman
+
+`docker`和`podman`是容器工具，`docker`和`podman`的命令兼容，使用教程可以参考[这里](https://docs.docker.com/get-started/)。由于`podman`不需要`root`权限，可以添加如下 alias，在服务上使用`podman`。
+
+```bash
+alias docker=podman
+```
