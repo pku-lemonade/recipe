@@ -41,6 +41,6 @@ nav:
     - 财务: lab/money.md
   - 科研工具:
     - 服务器工具: tools/server.md
-    - 论文工具: tools/papers.md
     - GitHub: tools/github.md
     - Latex: tools/latex.md
+    - Docker: tools/docker.md

@@ -2,6 +2,10 @@
 
 LaTex 是一种文档排版系统。通常我们在写论文时会在[Overleaf](https://www.overleaf.com/)上用到。
 
+## Overleaf
+
+[Overleaf](https://www.overleaf.com/) 是一个在线 LaTeX 编辑器。投稿前请让我新建 project 并分享给你。
+
 ## style guide
 
 - 多换行。每个句子换一行。当句子接近编辑器宽度时（比如 80 字符）换一行。这样阅读起来更方便，报错时也更好定位。
