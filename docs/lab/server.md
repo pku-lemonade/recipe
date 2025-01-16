@@ -1,12 +1,12 @@
 # 服务器
 
-## 管理人员
+## 管理
 
-[吴飞扬](mailto:1308642003@qq.com)
+如果遇到服务器无法连接，连接缓慢，需要安装环境等问题，请咨询[吴飞扬](mailto:1308642003@qq.com)。
 
 ## seele
 
-位于昌平机房。配置与 Amazon EC2 `m6i.32xlarge`实例相同。
+位于昌平机房。配置与 Amazon EC2 `m6i.32xlarge` 实例相同。
 
 - Server: Inspur 5280 M6
 - CPU: 2 x Intel 8375c
@@ -23,7 +23,7 @@
 - CPU: AMD EPYC 7c13
 - Memory: 8 x 32 GB
 - SSD: 4 TB + 2 TB
-- HDD: 8 x 8 TB (RAID 10, 32 TB available)
+- HDD: 8 x 8 TB (ZFS, RAID 10, 32 TB available)
 - GPU: 3 x NVIDIA RTX 4090
 - OS: Debian 12
 
