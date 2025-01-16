@@ -31,7 +31,7 @@ Here are some Dos and Don’ts:
 - Write only two or three sentences for each activity.
 - Each summarized activity looks very much the same like git commit messages.
 - **Don’t use AI** to generate or refine the report. Writing the report is a part of self-reflection and I need your own words and thoughts.
-- **Don’t include code or pictures**. Links are enough.
+- **Don’t include code or pictures**. Use links to your artifacts.
 - **Don’t include confidential information**.
 
 Here is a checklist every time you write the report:
