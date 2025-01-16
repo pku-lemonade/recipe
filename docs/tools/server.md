@@ -11,7 +11,7 @@
 
 ## fish（可选）
 
-建议使用`fish`作为 shell，`oh-my-fish`作为插件管理器。
+建议使用`fish`作为 shell，`oh-my-fish`作为`fish`的插件管理器。
 
 将`fish`设置为默认 shell：
 
@@ -22,7 +22,7 @@ chsh -s /usr/bin/fish
 安装`oh-my-fish`：
 
 ```bash
-curl -L https://get.oh-my.fish | fish
+curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install | fish
 ```
 
 ## tmux
