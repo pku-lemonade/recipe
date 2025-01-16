@@ -10,6 +10,7 @@ theme:
     - navigation.tracking
     - navigation.sections
     - navigation.expand
+    - content.code.copy
 
 plugins:
   - search
@@ -26,6 +27,13 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
 
 extra:
   pagetime: 'on'
