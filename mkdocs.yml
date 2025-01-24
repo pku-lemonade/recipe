@@ -48,7 +48,8 @@ nav:
     - 周报: lab/weekly-report.md
     - 财务: lab/money.md
   - 科研工具:
-    - 服务器工具: tools/server.md
-    - GitHub: tools/github.md
+    - 🌟大模型: tools/llm.md
+    - 🌟服务器工具: tools/server.md
+    - 🌟GitHub: tools/github.md
     - Latex: tools/latex.md
     - Docker: tools/docker.md
