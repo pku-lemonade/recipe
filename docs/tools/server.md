@@ -36,3 +36,5 @@ curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install 
 `git`是一个版本控制工具，使用教程可以参考[这里](https://docs.github.com/en/get-started/using-git)。然后尝试[这个](https://docs.github.com/en/get-started/start-your-journey/hello-world)教程。
 
 如果忘记了指令，可以使用`tldr git`查看。
+
+在掌握了基本 `git` 操作后，请学习 `Github` 的[协作流程](github.md)。

@@ -1,14 +1,6 @@
 # GitHub 相关
 
-实验室主要使用 `GitHub` 和 `Pull Request` 来管理项目代码和同步科研进度。在熟悉`git`的基本操作后，还需要熟悉以下内容。
-
-## Copilot
-
-1. 注册账号，认证为[学生](https://education.github.com/discount_requests/application)，获得免费的 Github Copilot。
-
-2. 在 VS Code 中安装 GitHub Copilot 插件。
-
-3. 使用场景见[这里](https://docs.github.com/en/copilot/using-github-copilot/guides-on-using-github-copilot)。
+实验室主要使用 `GitHub` 来管理项目代码和同步科研进度。在熟悉`git`的基本操作后，还需要熟悉 `Pull Request` 流程。
 
 ## Pull Request
 
