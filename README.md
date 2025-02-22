@@ -2,7 +2,7 @@
 
 The New Lemonade Recipe is a collection of guides for members of [LEMONADE](https://www.youwei.xyz) at Peking University.
 
-实验室招收 **2026** 年入学博士生两人。请提前联系！
+实验室招收 **2027** 年入学博士生两人。请提前联系！
 
 本站是北京大学 Lemonade 实验室的指南，希望通过文档的积累，将很多科研中的常见问题和解决方案沉淀下来。目前主要由我在编写，希望大家在学习过程中也能够贡献自己的经验。
 
