@@ -1,6 +1,6 @@
-site_name: New Lemonade Recipe
+site_name: Recipe
 site_url: https://recipe.youwei.xyz
-site_author: 'PKU Lemonade'
+site_author: 'Youwei Zhuo'
 
 theme:
   name: material
@@ -15,7 +15,9 @@ theme:
 plugins:
   - search
   - git-revision-date-localized
-  - git-authors
+  - git-authors:
+      show_contribution: true
+      sort_authors_by: contribution
 
 markdown_extensions:
   # Python Markdown
