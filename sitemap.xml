@@ -2,54 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://recipe.youwei.xyz/</loc>
-         <lastmod>2025-03-04</lastmod>
+         <lastmod>2025-03-27</lastmod>
+    </url>
+    <url>
+         <loc>https://recipe.youwei.xyz/roadmap/</loc>
+         <lastmod>2025-03-27</lastmod>
     </url>
     <url>
          <loc>https://recipe.youwei.xyz/lab/daily-life/</loc>
-         <lastmod>2025-03-04</lastmod>
+         <lastmod>2025-03-27</lastmod>
     </url>
     <url>
          <loc>https://recipe.youwei.xyz/lab/daily-work/</loc>
-         <lastmod>2025-03-04</lastmod>
+         <lastmod>2025-03-27</lastmod>
     </url>
     <url>
          <loc>https://recipe.youwei.xyz/lab/graduation/</loc>
-         <lastmod>2025-03-04</lastmod>
+         <lastmod>2025-03-27</lastmod>
     </url>
     <url>
          <loc>https://recipe.youwei.xyz/lab/money/</loc>
-         <lastmod>2025-03-04</lastmod>
+         <lastmod>2025-03-27</lastmod>
     </url>
     <url>
          <loc>https://recipe.youwei.xyz/lab/server/</loc>
-         <lastmod>2025-03-04</lastmod>
+         <lastmod>2025-03-27</lastmod>
     </url>
     <url>
          <loc>https://recipe.youwei.xyz/lab/weekly-report/</loc>
-         <lastmod>2025-03-04</lastmod>
+         <lastmod>2025-03-27</lastmod>
     </url>
     <url>
          <loc>https://recipe.youwei.xyz/tools/docker/</loc>
-         <lastmod>2025-03-04</lastmod>
+         <lastmod>2025-03-27</lastmod>
     </url>
     <url>
          <loc>https://recipe.youwei.xyz/tools/github/</loc>
-         <lastmod>2025-03-04</lastmod>
+         <lastmod>2025-03-27</lastmod>
     </url>
     <url>
          <loc>https://recipe.youwei.xyz/tools/latex/</loc>
-         <lastmod>2025-03-04</lastmod>
+         <lastmod>2025-03-27</lastmod>
     </url>
     <url>
          <loc>https://recipe.youwei.xyz/tools/llm/</loc>
-         <lastmod>2025-03-04</lastmod>
+         <lastmod>2025-03-27</lastmod>
     </url>
     <url>
          <loc>https://recipe.youwei.xyz/tools/server/</loc>
-         <lastmod>2025-03-04</lastmod>
+         <lastmod>2025-03-27</lastmod>
     </url>
     <url>
          <loc>https://recipe.youwei.xyz/tools/zotero/</loc>
-         <lastmod>2025-03-04</lastmod>
+         <lastmod>2025-03-27</lastmod>
     </url>
 </urlset>
