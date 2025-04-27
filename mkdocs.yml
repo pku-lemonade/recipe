@@ -1,11 +1,15 @@
-site_name: Recipe
+site_name: LEMONADE Recipe
 site_url: https://recipe.youwei.xyz
-site_author: 'Youwei Zhuo'
+site_author: Youwei Zhuo
+repo_url: https://github.com/pku-lemonade/recipe
+repo_name: pku-lemonade/recipe
+
 
 theme:
   name: material
   icon:
     logo: fontawesome/regular/lemon
+    repo: fontawesome/brands/github
   palette:
     primary: pink
   features:
