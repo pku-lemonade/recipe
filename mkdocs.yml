@@ -4,6 +4,8 @@ site_author: 'Youwei Zhuo'
 
 theme:
   name: material
+  icon:
+    logo: fontawesome/regular/lemon
   palette:
     primary: pink
   features:
@@ -39,6 +41,9 @@ markdown_extensions:
 
 extra:
   pagetime: 'on'
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - 简介: index.md
