@@ -20,7 +20,7 @@
       
       
       <link rel="icon" href="../../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.9">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.12">
     
     
       
@@ -28,7 +28,7 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.4af4bdda.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.2afb09e1.min.css">
       
         
         <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
@@ -49,6 +49,8 @@
         <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
       
     
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
     
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -93,7 +95,7 @@
     <a href="../.." title="Recipe" class="md-header__button md-logo" aria-label="Recipe" data-md-component="logo">
       
   
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M368 80c-3.2 0-6.2.4-8.9 1.3-19.1 5.5-46.1 10.6-74.3 3.3-57.4-14.9-124.6 7.4-174.7 57.5S37.7 259.4 52.6 316.8c7.3 28.2 2.2 55.2-3.3 74.3-.8 2.8-1.3 5.8-1.3 8.9 0 17.7 14.3 32 32 32 3.2 0 6.2-.4 8.9-1.3 19.1-5.5 46.1-10.7 74.3-3.3 57.4 14.9 124.6-7.4 174.7-57.5s72.4-117.3 57.5-174.7c-7.3-28.2-2.2-55.2 3.3-74.3.8-2.8 1.3-5.8 1.3-8.9 0-17.7-14.3-32-32-32m0-48c44.2 0 80 35.8 80 80 0 7.7-1.1 15.2-3.1 22.3-4.6 15.8-7.1 32.9-3 48.9 20.1 77.6-10.9 161.5-70 220.7s-143.1 90.2-220.7 70c-16-4.1-33-1.6-48.9 3-7.1 2-14.6 3.1-22.3 3.1-44.2 0-80-35.8-80-80 0-7.7 1.1-15.2 3.1-22.3 4.6-15.8 7.1-32.9 3-48.9C-14 251.3 17 167.3 76.2 108.2S219.3 18 296.8 38.1c16 4.1 33 1.6 48.9-3 7.1-2 14.6-3.1 22.3-3.1M246.7 167c-52 15.2-96.5 59.7-111.7 111.7-3.7 12.7-17.1 20-29.8 16.3s-20-17.1-16.3-29.8c19.8-67.7 76.6-124.5 144.3-144.3 12.7-3.7 26.1 3.6 29.8 16.3s-3.6 26.1-16.3 29.8"/></svg>
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -122,11 +124,13 @@
     
     
     
-      <label class="md-header__button md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
-      </label>
-      <div class="md-search" data-md-component="search" role="dialog">
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
     <form class="md-search__form" name="search">
@@ -158,6 +162,7 @@
     </div>
   </div>
 </div>
+      
     
     
   </nav>
@@ -188,7 +193,7 @@
     <a href="../.." title="Recipe" class="md-nav__button md-logo" aria-label="Recipe" data-md-component="logo">
       
   
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M368 80c-3.2 0-6.2.4-8.9 1.3-19.1 5.5-46.1 10.6-74.3 3.3-57.4-14.9-124.6 7.4-174.7 57.5S37.7 259.4 52.6 316.8c7.3 28.2 2.2 55.2-3.3 74.3-.8 2.8-1.3 5.8-1.3 8.9 0 17.7 14.3 32 32 32 3.2 0 6.2-.4 8.9-1.3 19.1-5.5 46.1-10.7 74.3-3.3 57.4 14.9 124.6-7.4 174.7-57.5s72.4-117.3 57.5-174.7c-7.3-28.2-2.2-55.2 3.3-74.3.8-2.8 1.3-5.8 1.3-8.9 0-17.7-14.3-32-32-32m0-48c44.2 0 80 35.8 80 80 0 7.7-1.1 15.2-3.1 22.3-4.6 15.8-7.1 32.9-3 48.9 20.1 77.6-10.9 161.5-70 220.7s-143.1 90.2-220.7 70c-16-4.1-33-1.6-48.9 3-7.1 2-14.6 3.1-22.3 3.1-44.2 0-80-35.8-80-80 0-7.7 1.1-15.2 3.1-22.3 4.6-15.8 7.1-32.9 3-48.9C-14 251.3 17 167.3 76.2 108.2S219.3 18 296.8 38.1c16 4.1 33 1.6 48.9-3 7.1-2 14.6-3.1 22.3-3.1M246.7 167c-52 15.2-96.5 59.7-111.7 111.7-3.7 12.7-17.1 20-29.8 16.3s-20-17.1-16.3-29.8c19.8-67.7 76.6-124.5 144.3-144.3 12.7-3.7 26.1 3.6 29.8 16.3s-3.6 26.1-16.3 29.8"/></svg>
 
     </a>
     Recipe
@@ -205,6 +210,7 @@
     <li class="md-nav__item">
       <a href="../.." class="md-nav__link">
         
+  
   
   <span class="md-ellipsis">
     简介
@@ -226,6 +232,7 @@
     <li class="md-nav__item">
       <a href="../../roadmap/" class="md-nav__link">
         
+  
   
   <span class="md-ellipsis">
     使用方法
@@ -249,6 +256,7 @@
     
     
     
+    
       
         
         
@@ -264,6 +272,7 @@
           
           <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
             
+  
   
   <span class="md-ellipsis">
     实验室
@@ -290,6 +299,7 @@
     <li class="md-nav__item">
       <a href="../daily-work/" class="md-nav__link">
         
+  
   
   <span class="md-ellipsis">
     工作日常
@@ -322,6 +332,7 @@
         <label class="md-nav__link md-nav__link--active" for="__toc">
           
   
+  
   <span class="md-ellipsis">
     生活日常
     
@@ -333,6 +344,7 @@
       
       <a href="./" class="md-nav__link md-nav__link--active">
         
+  
   
   <span class="md-ellipsis">
     生活日常
@@ -403,6 +415,7 @@
       <a href="../server/" class="md-nav__link">
         
   
+  
   <span class="md-ellipsis">
     服务器
     
@@ -425,6 +438,7 @@
       <a href="../weekly-report/" class="md-nav__link">
         
   
+  
   <span class="md-ellipsis">
     周报
     
@@ -446,6 +460,7 @@
     <li class="md-nav__item">
       <a href="../money/" class="md-nav__link">
         
+  
   
   <span class="md-ellipsis">
     财务
@@ -475,6 +490,7 @@
     
     
     
+    
       
         
         
@@ -492,6 +508,7 @@
           
           <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
             
+  
   
   <span class="md-ellipsis">
     科研工具
@@ -519,6 +536,7 @@
       <a href="../../tools/llm/" class="md-nav__link">
         
   
+  
   <span class="md-ellipsis">
     大模型
     
@@ -540,6 +558,7 @@
     <li class="md-nav__item">
       <a href="../../tools/server/" class="md-nav__link">
         
+  
   
   <span class="md-ellipsis">
     服务器工具
@@ -563,6 +582,7 @@
       <a href="../../tools/github/" class="md-nav__link">
         
   
+  
   <span class="md-ellipsis">
     GitHub
     
@@ -585,6 +605,7 @@
       <a href="../../tools/latex/" class="md-nav__link">
         
   
+  
   <span class="md-ellipsis">
     Latex
     
@@ -606,6 +627,7 @@
     <li class="md-nav__item">
       <a href="../../tools/docker/" class="md-nav__link">
         
+  
   
   <span class="md-ellipsis">
     Docker
@@ -700,8 +722,8 @@
 <h2 id="_2">考勤<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
 <p>实验室无考勤打卡。可根据个人生活习惯安排时间。</p>
 <h2 id="_3">请假<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
-<p>博士生的假期按照我国法定节假日（<strong>不包括寒暑假</strong>）执行。</p>
-<p>在法定节假日外，博士生的假期时间由自己安排，可以安排在任何时间。鼓励在工作日请假，错峰出行。</p>
+<p>博士生的假期参照北京大学校历（<strong>不包括寒暑假</strong>）。</p>
+<p>在节假日外，博士生的假期时间由自己安排，可以安排在任何时间。鼓励在工作日请假，错峰出行。</p>
 <h2 id="_4">自由时间<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
 <p>从提交周报以后，到下一周周一上午 8 点，是所有人的自由时间。在这段时间里，我发送的任何消息可以不用回复。</p>
 
@@ -724,7 +746,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="December 19, 2024 05:30:34">December 19, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="April 27, 2025 04:01:59">April 27, 2025</span>
   </span>
 
     
@@ -786,7 +808,9 @@
     </div>
     
     
-    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tracking", "navigation.sections", "navigation.expand", "content.code.copy"], "search": "../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tracking", "navigation.sections", "navigation.expand", "content.code.copy"], "search": "../../assets/javascripts/workers/search.f8cc74c7.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
       <script src="../../assets/javascripts/bundle.c8b220af.min.js"></script>
