@@ -12,7 +12,7 @@
 
 ## 阅读论文
 
-每周阅读**至少 5 篇**论文，提交 PR 至 [pku-lemonade/review](https://github.com/pku-lemonade/new-lemon-review)。
+每周阅读论文，提交 PR 至 [pku-lemonade/review](https://github.com/pku-lemonade/review)。
 
 ## 科研时间
 
@@ -20,4 +20,4 @@
 
 ## 组会
 
-每周参加实验室组会。组会时长控制在 2 小时以内。
+每周参加实验室组会。组会时长 2 小时以内。
