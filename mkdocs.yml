@@ -16,7 +16,12 @@ theme:
     - navigation.tracking
     - navigation.sections
     - navigation.expand
+    # - navigation.top
+    - toc.follow
     - content.code.copy
+    - search.highlight
+    - search.share
+    - search.suggest
 
 plugins:
   - search
@@ -45,6 +50,9 @@ markdown_extensions:
 
 extra:
   pagetime: 'on'
+  analytics:
+    provider: google
+    property: G-MYKBRKEJ8J
 
 extra_css:
   - stylesheets/extra.css
