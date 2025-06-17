@@ -1,10 +1,9 @@
 # LaTex
 
-LaTex 是一种文档排版系统。通常我们在写论文时会在[Overleaf](https://www.overleaf.com/)上用到。
 
-## Overleaf
+<!-- ## Overleaf
 
-[Overleaf](https://www.overleaf.com/) 是一个在线 LaTeX 编辑器。投稿前请让我新建 project 并分享给你。
+[Overleaf](https://www.overleaf.com/) 是一个在线 LaTeX 编辑器。投稿前请让我新建 project 并分享给你。 -->
 
 ## Tips
 
