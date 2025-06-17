@@ -25,12 +25,14 @@ theme:
 
 plugins:
   - search
+  - ezlinks
   - git-revision-date-localized
   - git-authors:
       show_contribution: true
       sort_authors_by: contribution
 
 markdown_extensions:
+  - github-callouts
   # Python Markdown
   - abbr
   - admonition
